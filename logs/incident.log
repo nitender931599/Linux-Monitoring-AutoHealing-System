@@ -1,0 +1,592 @@
+==================================
+Timestamp: Tue Jun 30 11:46:35 IST 2026
+CPU Usage: 0.0%
+Memory Usage: 44.48%
+Disk Usage: 1%
+
+==================================
+Timestamp: Tue Jun 30 11:49:45 IST 2026
+CPU Usage: 0.0%
+Memory Usage: 44.49%
+Disk Usage: 1%
+
+Nginx Status: DOWN
+Attempting restart...
+Nginx restarted successfully
+==================================
+Timestamp: Tue Jun 30 11:53:22 IST 2026
+CPU Usage: 0.8%
+Memory Usage: 44.67%
+Disk Usage: 1%
+
+Nginx Status: Running
+==================================
+Timestamp: Tue Jun 30 11:55:01 IST 2026
+CPU Usage: 0.8%
+Memory Usage: 44.71%
+Disk Usage: 1%
+
+Nginx Status: Running
+==================================
+Timestamp: Tue Jun 30 12:00:01 IST 2026
+CPU Usage: 1.5%
+Memory Usage: 52.11%
+Disk Usage: 1%
+
+Nginx Status: Running
+==================================
+Timestamp: Tue Jun 30 12:05:02 IST 2026
+CPU Usage: 1.3%
+Memory Usage: 51.66%
+Disk Usage: 1%
+
+Nginx Status: Running
+==================================
+Timestamp: Tue Jun 30 12:10:01 IST 2026
+CPU Usage: 1.4%
+Memory Usage: 52.71%
+Disk Usage: 1%
+
+Nginx Status: Running
+==================================
+Timestamp: Tue Jun 30 12:10:43 IST 2026
+CPU Usage: 0.0%
+Memory Usage: 52.46%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: DOWN
+Attempting container restart...
+webserver
+Docker container restarted successfully
+==================================
+Timestamp: Tue Jun 30 12:15:00 IST 2026
+CPU Usage: 2.2%
+Memory Usage: 54.93%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 12:20:01 IST 2026
+CPU Usage: 1.2%
+Memory Usage: 57.29%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 12:25:01 IST 2026
+CPU Usage: 0.7%
+Memory Usage: 58.23%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 12:30:01 IST 2026
+CPU Usage: 0.7%
+Memory Usage: 62.69%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 12:35:01 IST 2026
+CPU Usage: 1.3%
+Memory Usage: 63.02%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 12:40:01 IST 2026
+CPU Usage: 0.7%
+Memory Usage: 58.99%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 12:45:01 IST 2026
+CPU Usage: 2.6%
+Memory Usage: 60.41%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 12:50:01 IST 2026
+CPU Usage: 15.2%
+Memory Usage: 60.54%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 12:55:01 IST 2026
+CPU Usage: 0.0%
+Memory Usage: 58.37%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 13:00:01 IST 2026
+CPU Usage: 1.6%
+Memory Usage: 58.35%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 13:05:01 IST 2026
+CPU Usage: 1.3%
+Memory Usage: 58.52%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 13:35:01 IST 2026
+CPU Usage: 0.5%
+Memory Usage: 59.36%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 13:40:01 IST 2026
+CPU Usage: 0.0%
+Memory Usage: 57.91%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 13:45:01 IST 2026
+CPU Usage: 0.0%
+Memory Usage: 57.91%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 13:50:01 IST 2026
+CPU Usage: 0.0%
+Memory Usage: 57.53%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: DOWN
+Attempting container restart...
+webserver
+Docker container restarted successfully
+==================================
+Timestamp: Tue Jun 30 14:05:01 IST 2026
+CPU Usage: 0.6%
+Memory Usage: 57.16%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 14:10:01 IST 2026
+CPU Usage: 0.8%
+Memory Usage: 57.27%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 14:15:01 IST 2026
+CPU Usage: 1.3%
+Memory Usage: 58.01%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 14:20:01 IST 2026
+CPU Usage: 0.8%
+Memory Usage: 57.09%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 14:25:01 IST 2026
+CPU Usage: 0.0%
+Memory Usage: 56.98%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 14:30:01 IST 2026
+CPU Usage: 1.2%
+Memory Usage: 56.94%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 14:35:01 IST 2026
+CPU Usage: 0.7%
+Memory Usage: 56.98%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 14:40:01 IST 2026
+CPU Usage: 0.7%
+Memory Usage: 57.14%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 14:45:02 IST 2026
+CPU Usage: 0.7%
+Memory Usage: 57.15%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 14:50:01 IST 2026
+CPU Usage: 0.7%
+Memory Usage: 57.11%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 14:55:01 IST 2026
+CPU Usage: 1.1%
+Memory Usage: 57.10%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 15:00:02 IST 2026
+CPU Usage: 0.6%
+Memory Usage: 57.11%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 15:05:01 IST 2026
+CPU Usage: 0.5%
+Memory Usage: 58.42%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 15:10:01 IST 2026
+CPU Usage: 2.9%
+Memory Usage: 58.84%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 15:15:02 IST 2026
+CPU Usage: 0.7%
+Memory Usage: 58.73%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 15:20:01 IST 2026
+CPU Usage: 0.0%
+Memory Usage: 58.87%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 15:25:01 IST 2026
+CPU Usage: 0.0%
+Memory Usage: 58.68%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 15:30:02 IST 2026
+CPU Usage: 0.8%
+Memory Usage: 58.66%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 15:35:01 IST 2026
+CPU Usage: 0.0%
+Memory Usage: 58.62%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 15:40:01 IST 2026
+CPU Usage: 0.0%
+Memory Usage: 58.71%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 15:45:01 IST 2026
+CPU Usage: 0.8%
+Memory Usage: 58.77%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 15:50:01 IST 2026
+CPU Usage: 1.5%
+Memory Usage: 58.82%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 15:55:01 IST 2026
+CPU Usage: 0.0%
+Memory Usage: 58.76%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 16:00:01 IST 2026
+CPU Usage: 0.0%
+Memory Usage: 58.72%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 16:15:02 IST 2026
+CPU Usage: 0.7%
+Memory Usage: 59.73%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 16:20:01 IST 2026
+CPU Usage: 1.6%
+Memory Usage: 59.51%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 16:25:01 IST 2026
+CPU Usage: 0.8%
+Memory Usage: 59.68%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 16:30:01 IST 2026
+CPU Usage: 0.8%
+Memory Usage: 59.67%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 16:35:01 IST 2026
+CPU Usage: 0.8%
+Memory Usage: 60.36%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 16:40:01 IST 2026
+CPU Usage: 0.8%
+Memory Usage: 59.54%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 16:45:01 IST 2026
+CPU Usage: 0.7%
+Memory Usage: 59.60%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 16:50:01 IST 2026
+CPU Usage: 0.0%
+Memory Usage: 59.60%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 17:45:02 IST 2026
+CPU Usage: 0.0%
+Memory Usage: 59.89%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 17:50:01 IST 2026
+CPU Usage: 0.7%
+Memory Usage: 59.82%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 17:55:01 IST 2026
+CPU Usage: 0.0%
+Memory Usage: 59.80%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 18:00:01 IST 2026
+CPU Usage: 0.0%
+Memory Usage: 59.77%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 18:05:01 IST 2026
+CPU Usage: 0.8%
+Memory Usage: 59.77%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 18:10:01 IST 2026
+CPU Usage: 0.0%
+Memory Usage: 59.73%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 18:15:01 IST 2026
+CPU Usage: 0.0%
+Memory Usage: 59.82%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 18:20:01 IST 2026
+CPU Usage: 1.4%
+Memory Usage: 59.83%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 18:25:02 IST 2026
+CPU Usage: 0.6%
+Memory Usage: 59.81%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 18:30:01 IST 2026
+CPU Usage: 1.1%
+Memory Usage: 59.72%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 18:35:01 IST 2026
+CPU Usage: 1.3%
+Memory Usage: 59.72%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 18:40:00 IST 2026
+CPU Usage: 0.0%
+Memory Usage: 59.60%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 18:45:02 IST 2026
+CPU Usage: 0.7%
+Memory Usage: 59.61%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 18:50:01 IST 2026
+CPU Usage: 0.6%
+Memory Usage: 59.45%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 18:55:01 IST 2026
+CPU Usage: 1.5%
+Memory Usage: 59.38%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 19:00:01 IST 2026
+CPU Usage: 1.2%
+Memory Usage: 59.35%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 19:05:01 IST 2026
+CPU Usage: 1.5%
+Memory Usage: 59.24%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 19:10:01 IST 2026
+CPU Usage: 0.6%
+Memory Usage: 59.12%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
+==================================
+Timestamp: Tue Jun 30 19:15:01 IST 2026
+CPU Usage: 0.6%
+Memory Usage: 59.33%
+Disk Usage: 1%
+
+Nginx Status: Running
+Docker Container Status: Running
